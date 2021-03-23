@@ -1,3 +1,4 @@
+### UPDATE: Fix was "allowUmdGlobalAccess": true, in tsconfig
 Run `npx tsc` and get error: 
 
 ```js
